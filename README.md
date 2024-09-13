@@ -23,8 +23,20 @@ Go to the MITRE ATT&CK Navigator.
 
 ### 3. Select Threat Actor Profiles
 In the Navigator, search for and load profiles of the threat actors you’ve identified. You can either:
-- Manually map techniques based on your research, or
-- Use pre-built ATT&CK mappings of well-known groups (many reports on threat actors already reference ATT&CK techniques).
+- Manually map techniques based on your research.
+
+| Cyber Kill Chain            | Mitre ATT&CK     |
+|--------------------------|---------------------|
+|  Reconnaissance          |Reconnaissance |
+| Weaponisation            | Execution|
+| Delivery                 | Initial Access|
+| Execution                | Initial Access|
+| Installation             | Persistence / Defence Evasion|
+| Command and control      | Command and control|
+| Action on objectives     | Exfiltration  / Impact|
+- OR use pre-built ATT&CK mappings of well-known groups (many reports on threat actors already reference ATT&CK techniques).
+
+
 
 ### 4. Overlay Your Defence Capabilities
 Map your existing security controls and detection mechanisms against the techniques used by the selected threat actors. For example, if APT38 uses phishing (Initial Access) and credential dumping (Credential Access), check if your SIEM or security tools can detect and alert on these specific techniques.
