@@ -25,7 +25,7 @@ Go to the MITRE ATT&CK Navigator.
 In the Navigator, search for and load profiles of the threat actors you’ve identified. You can either:
 - Manually map techniques based on your research.
 
-| Cyber Kill Chain            | Mitre ATT&CK     |
+| Cyber Kill Chain       | Mitre ATT&CK |
 |--------------------------|---------------------|
 |  Reconnaissance          |Reconnaissance |
 | Weaponisation            | Execution|
