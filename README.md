@@ -66,8 +66,8 @@ Go through your SIEM or detection logs to verify whether alerts were raised duri
 
 # Reference 
 
-- https://attack.mitre.org/
-- https://youtube.com/playlist?list=PLLGRmm150VfBd_bk6fGqTqxr8SBeDcprb&si=HOCl3sKBg3I_xzLC
-- 
+-  <a href="https://attack.mitre.org/">Mitre Att&ck</a>    
+- <a href="https://youtube.com/playlist?list=PLLGRmm150VfBd_bk6fGqTqxr8SBeDcprb&si=HOCl3sKBg3I_xzLC">YouTube Mitre Att&ck Deep dive</a>  
+
 
 
