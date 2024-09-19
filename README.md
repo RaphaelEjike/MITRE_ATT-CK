@@ -67,5 +67,7 @@ Go through your SIEM or detection logs to verify whether alerts were raised duri
 # Reference 
 
 - https://attack.mitre.org/
+- https://youtube.com/playlist?list=PLLGRmm150VfBd_bk6fGqTqxr8SBeDcprb&si=HOCl3sKBg3I_xzLC
+- 
 
 
