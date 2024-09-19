@@ -64,3 +64,8 @@ Go through your SIEM or detection logs to verify whether alerts were raised duri
 - Reassess your security posture every quarter or when significant changes occur in your organisation or the threat landscape.
 
 
+# Reference 
+
+- https://attack.mitre.org/
+
+
