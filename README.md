@@ -1,4 +1,4 @@
-# Identifying and Mapping Threat Actors Using MITRE ATT&CK
+# Identifying defence gaps and mapping threat actors using MITRE ATT&CK
 
 Use the MITRE ATT&CK framework to compare and analyse a set of known threat actors. For example, the threat actors in the finance industry. Map these adversaries’ tactics, techniques, and procedures (TTPs) against your organisation’s defences to determine if your security measures can effectively detect and respond to their attack patterns. This exercise will help ensure that your detection capabilities are aligned with the threats your organisation is most likely to face.
 
